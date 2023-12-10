@@ -1,0 +1,17 @@
+﻿{
+  "Administrator": "Administrateur",
+  "ViewAuditLog": "Voir les logs",
+  "ManageGuild": "Gérer le serveur",
+  "ManageRoles": "Gérer les rôles",
+  "ManageChannels": "Gérer les salons",
+  "ManageNicknames": "Gérer les pseudos",
+  "ManageEmojisAndStickers": "Gérer les émojis",
+  "ManageWebhooks": "Gérer les webhooks",
+  "ManageMessages": "Gérer les messages",
+  "KickMembers": "Expulser des membres",
+  "BanMembers": "Bannir des membres",
+  "MentionEveryone": "Mentionner everyone",
+  "MoveMembers": "Déplacer des membres en vocal",
+  "MuteMembers": "Mute des membres",
+  "DeafenMembers": "Mute casque des membres"
+}
